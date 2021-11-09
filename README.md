@@ -76,13 +76,13 @@ the user is responsible.
 
 <div align="center">
 
-  ![WhatsAsena Logo](https://media0.giphy.com/media/WzWhxbIKpCCCYfTS3a/giphy.gif?cid=6c09b952ca458f6d0fdd2de872ae4335ca70b7c23958106f&rid=giphy.gif)
+  ![KING-HYPER](https://i.ibb.co/n0c9mRQ/hyper-x-logo.jpg)
 
 <!---
 .mp4 version available on local file
 -->
 
-  <h1>🐺 WhatsAsena</h1>
+  <h1>♣ KING-HYPER</h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
